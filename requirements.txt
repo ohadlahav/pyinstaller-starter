@@ -1,0 +1,2 @@
+pyyaml
+sentry-sdk
